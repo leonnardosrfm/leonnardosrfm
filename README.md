@@ -41,24 +41,22 @@ Hobbies: ["Movies"], ["Coding"], ["Gaming"], ["Music"]
 Languages: ["Portuguese"], ["English"], ["Spanish"]
 ```
 
-## Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=git&logoColor=000" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-## Ambiente
 
 ```csharp
 System Information
 ------------------------------------------
 OS: Windows 11
-Kernel: 21H1, Build ver. 19043.1110
+Kernel: 22H2, Build ver. 19045.6466
 WM: Windows Explorer
 Shell: PowerShell
 Terminal: Alacritty 0.7.2
@@ -69,7 +67,6 @@ GPU: Nvidia GeForce GTX 1070
 Memory: 2x8 GB 3600MHz
 ```
 
-## Interesses
 
 <p align="center">
   <img src="https://img.shields.io/badge/Movies-000000?style=for-the-badge&logo=letterboxd&logoColor=white" />
@@ -82,6 +79,6 @@ Memory: 2x8 GB 3600MHz
 
 <p align="center">
   <img src="https://img.shields.io/badge/Portuguese-Native-009C3B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/English-Intermediate-1E3A8A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Spanish-Basic-AA151B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/English-Advanced-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spanish-Intermediate-AA151B?style=for-the-badge" />
 </p>
