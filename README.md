@@ -6,15 +6,15 @@
 
 <p align="center">
   <a href="https://github.com/leonnardosrfm" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=social&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/leonnardo-serafim" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:leonnardo.serafim@proton.me">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=social&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://portfolio-kind-tiger.trapiche.site/" target="_blank">
+  <a href="https://leonnardo.tech" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
