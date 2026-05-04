@@ -19,11 +19,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Brazil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Age-20-4C1D95?style=for-the-badge" />
-</p>
-
 ---
 
 ```zsh
@@ -44,9 +39,8 @@ Languages: ["Portuguese"], ["English"], ["Spanish"]
 
 <p align="center">
   <p align="center">
-  ## Skills
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
