@@ -44,15 +44,15 @@ Languages: ["Portuguese"], ["English"], ["Spanish"]
 
 <p align="center">
   <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" />
 </p>
 
 
@@ -72,17 +72,3 @@ Memory: 2x8 GB 3600MHz
 ```
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Movies-000000?style=for-the-badge&logo=letterboxd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coding-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Gaming-5C2D91?style=for-the-badge&logo=xbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-</p>
-
-## Idiomas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Portuguese-Native-009C3B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/English-Advanced-1E3A8A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Spanish-Intermediate-AA151B?style=for-the-badge" />
-</p>
