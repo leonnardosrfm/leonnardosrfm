@@ -24,18 +24,7 @@
 ```zsh
 -> ~/Portfolio git:(main) > ./start.sh
 ```
-
-```csharp
-Human Information
-------------------------------------------
-Name: Leonnardo
-Lastname: Serafim
-Age: 20
-Country: Brazil
-Hobbies: ["Movies"], ["Coding"], ["Gaming"], ["Music"]
-Languages: ["Portuguese"], ["English"], ["Spanish"]
-```
-
+## Tools & Tech
 
 <p align="center">
   <p align="center">
@@ -47,9 +36,18 @@ Languages: ["Portuguese"], ["English"], ["Spanish"]
   <img src="https://img.shields.io/badge/Tools-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Tools-Figma-FF6F00?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Tools-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" />
 </p>
 
+```csharp
+Human Information
+------------------------------------------
+Name: Leonnardo
+Lastname: Serafim
+Age: 20
+Country: Brazil
+Hobbies: ["Movies"], ["Coding"], ["Gaming"], ["Music"]
+Languages: ["Portuguese"], ["English"], ["Spanish"]
+```
 
 ```csharp
 System Information
