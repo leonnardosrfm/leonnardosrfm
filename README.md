@@ -20,7 +20,7 @@
 </p>
 
 ---
-# 🔧 Tools & Tech
+## 🔧 Tools & Tech
 
 <p align="center">
   <p align="center">
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Tools-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
 </p>
 
-# 👋 Personal Info
+## 👋 Personal Info
 
 ```zsh
 -> ~/Portfolio git:(main) > ./start.sh
