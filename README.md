@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Tools-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-C-A8B9CC?style=flat&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tools-PostgreSQL-336791?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Tools-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Tools-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Tools-Figma-FF6F00?style=flat&logo=figma&logoColor=white" />
